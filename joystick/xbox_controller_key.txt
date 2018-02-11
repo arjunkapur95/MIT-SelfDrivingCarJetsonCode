@@ -1,0 +1,21 @@
+axis 0 left_stick_lr
+axis 1 left_stick_ud
+axis 2 left_trigger
+axis 3 right_stick_lr
+axis 4 right_stick_ud
+axis 5 right_trigger
+button 0 a_bottom
+button 1 b_right
+button 2 x_left
+button 3 y_top
+button 4 left_bumper
+button 5 right_bumper
+button 6 back
+button 7 start
+button 8 xbox_button
+button 9 left_stick
+button 10 right_stick
+
+key
+ud = up and down
+lr = left and right
